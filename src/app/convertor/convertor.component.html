@@ -1,0 +1,11 @@
+<mat-grid-list cols="2" rowHeight="600px">
+    <mat-grid-tile>
+        <textarea [(ngModel)]="source" cols="80" rows="20"></textarea>
+    </mat-grid-tile>
+    <mat-grid-tile>
+        <textarea [(ngModel)]="dest" cols="80" rows="20"></textarea>
+    </mat-grid-tile>
+    <mat-grid-tile>
+        <button mat-raised-button color="primary" (click)="doSomething()">Convert</button>
+    </mat-grid-tile>
+</mat-grid-list>

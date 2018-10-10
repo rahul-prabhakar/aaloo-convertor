@@ -1,0 +1,1469 @@
+{
+  "fonts": [
+    {
+      "fontId": 14806,
+      "fontName": "GurmukhiLys 020",
+      "language": "Punjabi",
+      "replacements": [
+        {
+          "unicodeValue": "!",
+          "replaceValue": "!",
+          "id": 14832
+        },
+        {
+          "unicodeValue": "\"",
+          "replaceValue": "™™",
+          "id": 14833
+        },
+        {
+          "unicodeValue": "#",
+          "replaceValue": "",
+          "id": 14834
+        },
+        {
+          "unicodeValue": "$",
+          "replaceValue": "",
+          "id": 14835
+        },
+        {
+          "unicodeValue": "%",
+          "replaceValue": "",
+          "id": 14836
+        },
+        {
+          "unicodeValue": "&",
+          "replaceValue": "",
+          "id": 14837
+        },
+        {
+          "unicodeValue": "'",
+          "replaceValue": "#",
+          "id": 14838
+        },
+        {
+          "unicodeValue": "(",
+          "replaceValue": "(",
+          "id": 14839
+        },
+        {
+          "unicodeValue": ")",
+          "replaceValue": ")",
+          "id": 14840
+        },
+        {
+          "unicodeValue": "*",
+          "replaceValue": "%",
+          "id": 14841
+        },
+        {
+          "unicodeValue": "+",
+          "replaceValue": "O",
+          "id": 14842
+        },
+        {
+          "unicodeValue": ",",
+          "replaceValue": ",",
+          "id": 14843
+        },
+        {
+          "unicodeValue": "-",
+          "replaceValue": "-",
+          "id": 14844
+        },
+        {
+          "unicodeValue": ".",
+          "replaceValue": "H",
+          "id": 14845
+        },
+        {
+          "unicodeValue": "/",
+          "replaceValue": "$",
+          "id": 14846
+        },
+        {
+          "unicodeValue": "0",
+          "replaceValue": "0",
+          "id": 14847
+        },
+        {
+          "unicodeValue": "1",
+          "replaceValue": "1",
+          "id": 14848
+        },
+        {
+          "unicodeValue": "2",
+          "replaceValue": "2",
+          "id": 14849
+        },
+        {
+          "unicodeValue": "3",
+          "replaceValue": "3",
+          "id": 14850
+        },
+        {
+          "unicodeValue": "4",
+          "replaceValue": "4",
+          "id": 14851
+        },
+        {
+          "unicodeValue": "5",
+          "replaceValue": "5",
+          "id": 14852
+        },
+        {
+          "unicodeValue": "6",
+          "replaceValue": "6",
+          "id": 14853
+        },
+        {
+          "unicodeValue": "7",
+          "replaceValue": "7",
+          "id": 14854
+        },
+        {
+          "unicodeValue": "8",
+          "replaceValue": "8",
+          "id": 14855
+        },
+        {
+          "unicodeValue": "9",
+          "replaceValue": "9",
+          "id": 14856
+        },
+        {
+          "unicodeValue": ":",
+          "replaceValue": "L",
+          "id": 14857
+        },
+        {
+          "unicodeValue": ";",
+          "replaceValue": "l",
+          "id": 14858
+        },
+        {
+          "unicodeValue": "<",
+          "replaceValue": "",
+          "id": 14859
+        },
+        {
+          "unicodeValue": "=",
+          "replaceValue": "",
+          "id": 14860
+        },
+        {
+          "unicodeValue": ">",
+          "replaceValue": "",
+          "id": 14861
+        },
+        {
+          "unicodeValue": "?",
+          "replaceValue": "<",
+          "id": 14862
+        },
+        {
+          "unicodeValue": "[",
+          "replaceValue": "Ò",
+          "id": 14863
+        },
+        {
+          "unicodeValue": "\\",
+          "replaceValue": "$",
+          "id": 14864
+        },
+        {
+          "unicodeValue": "]",
+          "replaceValue": "Ó",
+          "id": 14865
+        },
+        {
+          "unicodeValue": "^",
+          "replaceValue": "",
+          "id": 14866
+        },
+        {
+          "unicodeValue": "_",
+          "replaceValue": "^",
+          "id": 14867
+        },
+        {
+          "unicodeValue": "`",
+          "replaceValue": "™",
+          "id": 14868
+        },
+        {
+          "unicodeValue": "{",
+          "replaceValue": "",
+          "id": 14869
+        },
+        {
+          "unicodeValue": "|",
+          "replaceValue": ".",
+          "id": 14870
+        },
+        {
+          "unicodeValue": "}",
+          "replaceValue": "",
+          "id": 14871
+        },
+        {
+          "unicodeValue": "~",
+          "replaceValue": "",
+          "id": 14872
+        },
+        {
+          "unicodeValue": "ਁ",
+          "replaceValue": "ZA",
+          "id": 14873
+        },
+        {
+          "unicodeValue": "ਂ",
+          "replaceValue": "A",
+          "id": 14874
+        },
+        {
+          "unicodeValue": "ਃ",
+          "replaceValue": "L",
+          "id": 14875
+        },
+        {
+          "unicodeValue": "ਅ",
+          "replaceValue": "n",
+          "id": 14876
+        },
+        {
+          "unicodeValue": "ਆ",
+          "replaceValue": "nk",
+          "id": 14877
+        },
+        {
+          "unicodeValue": "ਇ",
+          "replaceValue": "fJ",
+          "id": 14878
+        },
+        {
+          "unicodeValue": "ਈ",
+          "replaceValue": "Jh",
+          "id": 14879
+        },
+        {
+          "unicodeValue": "ਉ",
+          "replaceValue": "T[",
+          "id": 14880
+        },
+        {
+          "unicodeValue": "ਊ",
+          "replaceValue": "T{",
+          "id": 14881
+        },
+        {
+          "unicodeValue": "ਏ",
+          "replaceValue": "J/",
+          "id": 14882
+        },
+        {
+          "unicodeValue": "ਐ",
+          "replaceValue": "n?",
+          "id": 14883
+        },
+        {
+          "unicodeValue": "ਓ",
+          "replaceValue": "U",
+          "id": 14884
+        },
+        {
+          "unicodeValue": "ਔ",
+          "replaceValue": "n\"",
+          "id": 14885
+        },
+        {
+          "unicodeValue": "ਕ",
+          "replaceValue": "e",
+          "id": 14886
+        },
+        {
+          "unicodeValue": "ਖ",
+          "replaceValue": "y",
+          "id": 14887
+        },
+        {
+          "unicodeValue": "ਗ",
+          "replaceValue": "r",
+          "id": 14888
+        },
+        {
+          "unicodeValue": "ਘ",
+          "replaceValue": "x",
+          "id": 14889
+        },
+        {
+          "unicodeValue": "ਙ",
+          "replaceValue": "C",
+          "id": 14890
+        },
+        {
+          "unicodeValue": "ਚ",
+          "replaceValue": "u",
+          "id": 14891
+        },
+        {
+          "unicodeValue": "ਛ",
+          "replaceValue": "S",
+          "id": 14892
+        },
+        {
+          "unicodeValue": "ਜ",
+          "replaceValue": "i",
+          "id": 14893
+        },
+        {
+          "unicodeValue": "ਝ",
+          "replaceValue": "M",
+          "id": 14894
+        },
+        {
+          "unicodeValue": "ਞ",
+          "replaceValue": "R",
+          "id": 14895
+        },
+        {
+          "unicodeValue": "ਟ",
+          "replaceValue": "N",
+          "id": 14896
+        },
+        {
+          "unicodeValue": "ਠ",
+          "replaceValue": "m",
+          "id": 14897
+        },
+        {
+          "unicodeValue": "ਡ",
+          "replaceValue": "v",
+          "id": 14898
+        },
+        {
+          "unicodeValue": "ਢ",
+          "replaceValue": "Y",
+          "id": 14899
+        },
+        {
+          "unicodeValue": "ਣ",
+          "replaceValue": "D",
+          "id": 14900
+        },
+        {
+          "unicodeValue": "ਤ",
+          "replaceValue": "s",
+          "id": 14901
+        },
+        {
+          "unicodeValue": "ਥ",
+          "replaceValue": "E",
+          "id": 14902
+        },
+        {
+          "unicodeValue": "ਦ",
+          "replaceValue": "d",
+          "id": 14903
+        },
+        {
+          "unicodeValue": "ਧ",
+          "replaceValue": "X",
+          "id": 14904
+        },
+        {
+          "unicodeValue": "ਨ",
+          "replaceValue": "B",
+          "id": 14905
+        },
+        {
+          "unicodeValue": "ਪ",
+          "replaceValue": "g",
+          "id": 14906
+        },
+        {
+          "unicodeValue": "ਫ",
+          "replaceValue": "c",
+          "id": 14907
+        },
+        {
+          "unicodeValue": "ਬ",
+          "replaceValue": "p",
+          "id": 14908
+        },
+        {
+          "unicodeValue": "ਭ",
+          "replaceValue": "G",
+          "id": 14909
+        },
+        {
+          "unicodeValue": "ਮ",
+          "replaceValue": "w",
+          "id": 14910
+        },
+        {
+          "unicodeValue": "ਯ",
+          "replaceValue": ":",
+          "id": 14911
+        },
+        {
+          "unicodeValue": "ਰ",
+          "replaceValue": "o",
+          "id": 14912
+        },
+        {
+          "unicodeValue": "ਲ",
+          "replaceValue": "b",
+          "id": 14913
+        },
+        {
+          "unicodeValue": "ਲ਼",
+          "replaceValue": "æ",
+          "id": 14914
+        },
+        {
+          "unicodeValue": "ਵ",
+          "replaceValue": "t",
+          "id": 14915
+        },
+        {
+          "unicodeValue": "ਸ਼",
+          "replaceValue": "Å",
+          "id": 14916
+        },
+        {
+          "unicodeValue": "ਸ",
+          "replaceValue": ";",
+          "id": 14917
+        },
+        {
+          "unicodeValue": "ਹ",
+          "replaceValue": "j",
+          "id": 14918
+        },
+        {
+          "unicodeValue": "਼",
+          "replaceValue": "a",
+          "id": 14919
+        },
+        {
+          "unicodeValue": "ਾ",
+          "replaceValue": "k",
+          "id": 14920
+        },
+        {
+          "unicodeValue": "ਿ",
+          "replaceValue": "f",
+          "id": 14921
+        },
+        {
+          "unicodeValue": "ੀ",
+          "replaceValue": "h",
+          "id": 14922
+        },
+        {
+          "unicodeValue": "ੁ",
+          "replaceValue": "[",
+          "id": 14923
+        },
+        {
+          "unicodeValue": "ੂ",
+          "replaceValue": "{",
+          "id": 14924
+        },
+        {
+          "unicodeValue": "ੇ",
+          "replaceValue": "/",
+          "id": 14925
+        },
+        {
+          "unicodeValue": "ੈ",
+          "replaceValue": "?",
+          "id": 14926
+        },
+        {
+          "unicodeValue": "ੋ",
+          "replaceValue": "'",
+          "id": 14927
+        },
+        {
+          "unicodeValue": "ੌ",
+          "replaceValue": "\"",
+          "id": 14928
+        },
+        {
+          "unicodeValue": "੍",
+          "replaceValue": "",
+          "id": 14929
+        },
+        {
+          "unicodeValue": "ੑ",
+          "replaceValue": "",
+          "id": 14930
+        },
+        {
+          "unicodeValue": "ਖ਼",
+          "replaceValue": "]",
+          "id": 14931
+        },
+        {
+          "unicodeValue": "ਗ਼",
+          "replaceValue": "|",
+          "id": 14932
+        },
+        {
+          "unicodeValue": "ਜ਼",
+          "replaceValue": "}",
+          "id": 14933
+        },
+        {
+          "unicodeValue": "ੜ",
+          "replaceValue": "V",
+          "id": 14934
+        },
+        {
+          "unicodeValue": "ਫ਼",
+          "replaceValue": "\\",
+          "id": 14935
+        },
+        {
+          "unicodeValue": "੦",
+          "replaceValue": "Ç",
+          "id": 14936
+        },
+        {
+          "unicodeValue": "੧",
+          "replaceValue": "É",
+          "id": 14937
+        },
+        {
+          "unicodeValue": "੨",
+          "replaceValue": "Ñ",
+          "id": 14938
+        },
+        {
+          "unicodeValue": "੩",
+          "replaceValue": "Ö",
+          "id": 14939
+        },
+        {
+          "unicodeValue": "੪",
+          "replaceValue": "Ü",
+          "id": 14940
+        },
+        {
+          "unicodeValue": "੫",
+          "replaceValue": "á",
+          "id": 14941
+        },
+        {
+          "unicodeValue": "੬",
+          "replaceValue": "à",
+          "id": 14942
+        },
+        {
+          "unicodeValue": "੭",
+          "replaceValue": "â",
+          "id": 14943
+        },
+        {
+          "unicodeValue": "੮",
+          "replaceValue": "ã",
+          "id": 14944
+        },
+        {
+          "unicodeValue": "੯",
+          "replaceValue": "ä",
+          "id": 14945
+        },
+        {
+          "unicodeValue": "ੰ",
+          "replaceValue": "z",
+          "id": 14946
+        },
+        {
+          "unicodeValue": "ੱ",
+          "replaceValue": "Z",
+          "id": 14947
+        },
+        {
+          "unicodeValue": "ੲ",
+          "replaceValue": "J",
+          "id": 14948
+        },
+        {
+          "unicodeValue": "ੳ",
+          "replaceValue": "T",
+          "id": 14949
+        },
+        {
+          "unicodeValue": "ੴ",
+          "replaceValue": "É>",
+          "id": 14950
+        },
+        {
+          "unicodeValue": "’",
+          "replaceValue": "#",
+          "id": 14951
+        },
+        {
+          "unicodeValue": "ਤੇ",
+          "replaceValue": "s/",
+          "id": 14817
+        },
+        {
+          "unicodeValue": "ਦੇ",
+          "replaceValue": "d/",
+          "id": 14818
+        },
+        {
+          "unicodeValue": "ਨੇ",
+          "replaceValue": "B/",
+          "id": 14819
+        },
+        {
+          "unicodeValue": "ਨੈ",
+          "replaceValue": "B?",
+          "id": 14820
+        },
+        {
+          "unicodeValue": "ਰੂ",
+          "replaceValue": "o{",
+          "id": 14821
+        },
+        {
+          "unicodeValue": "ਲੈ",
+          "replaceValue": "b?",
+          "id": 14822
+        },
+        {
+          "unicodeValue": "ਹੈ",
+          "replaceValue": "j?",
+          "id": 14823
+        },
+        {
+          "unicodeValue": "ਾਂ",
+          "replaceValue": "K",
+          "id": 14824
+        },
+        {
+          "unicodeValue": "ੀਂ",
+          "replaceValue": "h&&A",
+          "id": 14825
+        },
+        {
+          "unicodeValue": "੍ਚ",
+          "replaceValue": "",
+          "id": 14826
+        },
+        {
+          "unicodeValue": "੍ਟ",
+          "replaceValue": "",
+          "id": 14827
+        },
+        {
+          "unicodeValue": "੍ਯ",
+          "replaceValue": "",
+          "id": 14828
+        },
+        {
+          "unicodeValue": "੍ਰ",
+          "replaceValue": "q",
+          "id": 14829
+        },
+        {
+          "unicodeValue": "੍ਵ",
+          "replaceValue": "P",
+          "id": 14830
+        },
+        {
+          "unicodeValue": "੍ਹ",
+          "replaceValue": "Q",
+          "id": 14831
+        },
+        {
+          "unicodeValue": "ਕ੍ਰ",
+          "replaceValue": "eq",
+          "id": 14807
+        },
+        {
+          "unicodeValue": "ਤ੍ਰ",
+          "replaceValue": "sq",
+          "id": 14808
+        },
+        {
+          "unicodeValue": "ਦ੍ਰ",
+          "replaceValue": "dq",
+          "id": 14809
+        },
+        {
+          "unicodeValue": "ਨਾਂ",
+          "replaceValue": "œ",
+          "id": 14810
+        },
+        {
+          "unicodeValue": "ਨੂੰ",
+          "replaceValue": "B{z",
+          "id": 14811
+        },
+        {
+          "unicodeValue": "ਪ੍ਰ",
+          "replaceValue": "gq",
+          "id": 14812
+        },
+        {
+          "unicodeValue": "ਸ਼੍ਰ",
+          "replaceValue": "Åq",
+          "id": 14813
+        },
+        {
+          "unicodeValue": "੍ਰੁ",
+          "replaceValue": "q[",
+          "id": 14814
+        },
+        {
+          "unicodeValue": "੍ਵੇ",
+          "replaceValue": "P/",
+          "id": 14815
+        },
+        {
+          "unicodeValue": "੍ਵੈ",
+          "replaceValue": "P?",
+          "id": 14816
+        }
+      ]
+    },
+    {
+      "fontId": 1,
+      "fontName": "Raavi",
+      "language": "Punjabi",
+      "unicodeFont": true,
+      "replacements": [
+        {
+          "unicodeValue": "!",
+          "replaceValue": "!",
+          "id": 16143
+        },
+        {
+          "unicodeValue": "\"",
+          "replaceValue": "\"",
+          "id": 16144
+        },
+        {
+          "unicodeValue": "#",
+          "replaceValue": "#",
+          "id": 16145
+        },
+        {
+          "unicodeValue": "$",
+          "replaceValue": "$",
+          "id": 16146
+        },
+        {
+          "unicodeValue": "%",
+          "replaceValue": "%",
+          "id": 16147
+        },
+        {
+          "unicodeValue": "&",
+          "replaceValue": "&",
+          "id": 16148
+        },
+        {
+          "unicodeValue": "'",
+          "replaceValue": "'",
+          "id": 16149
+        },
+        {
+          "unicodeValue": "(",
+          "replaceValue": "(",
+          "id": 16150
+        },
+        {
+          "unicodeValue": ")",
+          "replaceValue": ")",
+          "id": 16151
+        },
+        {
+          "unicodeValue": "*",
+          "replaceValue": "*",
+          "id": 16152
+        },
+        {
+          "unicodeValue": "+",
+          "replaceValue": "+",
+          "id": 16153
+        },
+        {
+          "unicodeValue": ",",
+          "replaceValue": ",",
+          "id": 16154
+        },
+        {
+          "unicodeValue": "-",
+          "replaceValue": "-",
+          "id": 16155
+        },
+        {
+          "unicodeValue": ".",
+          "replaceValue": ".",
+          "id": 16156
+        },
+        {
+          "unicodeValue": "/",
+          "replaceValue": "/",
+          "id": 16157
+        },
+        {
+          "unicodeValue": "0",
+          "replaceValue": "0",
+          "id": 16158
+        },
+        {
+          "unicodeValue": "1",
+          "replaceValue": "1",
+          "id": 16159
+        },
+        {
+          "unicodeValue": "2",
+          "replaceValue": "2",
+          "id": 16160
+        },
+        {
+          "unicodeValue": "3",
+          "replaceValue": "3",
+          "id": 16161
+        },
+        {
+          "unicodeValue": "4",
+          "replaceValue": "4",
+          "id": 16162
+        },
+        {
+          "unicodeValue": "5",
+          "replaceValue": "5",
+          "id": 16163
+        },
+        {
+          "unicodeValue": "6",
+          "replaceValue": "6",
+          "id": 16164
+        },
+        {
+          "unicodeValue": "7",
+          "replaceValue": "7",
+          "id": 16165
+        },
+        {
+          "unicodeValue": "8",
+          "replaceValue": "8",
+          "id": 16166
+        },
+        {
+          "unicodeValue": "9",
+          "replaceValue": "9",
+          "id": 16167
+        },
+        {
+          "unicodeValue": ":",
+          "replaceValue": ":",
+          "id": 16168
+        },
+        {
+          "unicodeValue": ";",
+          "replaceValue": ";",
+          "id": 16169
+        },
+        {
+          "unicodeValue": "<",
+          "replaceValue": "<",
+          "id": 16170
+        },
+        {
+          "unicodeValue": "=",
+          "replaceValue": "=",
+          "id": 16171
+        },
+        {
+          "unicodeValue": ">",
+          "replaceValue": ">",
+          "id": 16172
+        },
+        {
+          "unicodeValue": "?",
+          "replaceValue": "?",
+          "id": 16173
+        },
+        {
+          "unicodeValue": "[",
+          "replaceValue": "[",
+          "id": 16174
+        },
+        {
+          "unicodeValue": "\\",
+          "replaceValue": "\\",
+          "id": 16175
+        },
+        {
+          "unicodeValue": "]",
+          "replaceValue": "]",
+          "id": 16176
+        },
+        {
+          "unicodeValue": "^",
+          "replaceValue": "^",
+          "id": 16177
+        },
+        {
+          "unicodeValue": "_",
+          "replaceValue": "_",
+          "id": 16178
+        },
+        {
+          "unicodeValue": "`",
+          "replaceValue": "`",
+          "id": 16179
+        },
+        {
+          "unicodeValue": "{",
+          "replaceValue": "{",
+          "id": 16180
+        },
+        {
+          "unicodeValue": "|",
+          "replaceValue": "|",
+          "id": 16181
+        },
+        {
+          "unicodeValue": "}",
+          "replaceValue": "}",
+          "id": 16182
+        },
+        {
+          "unicodeValue": "~",
+          "replaceValue": "~",
+          "id": 16183
+        },
+        {
+          "unicodeValue": "ਁ",
+          "replaceValue": "ਁ",
+          "id": 16184
+        },
+        {
+          "unicodeValue": "ਂ",
+          "replaceValue": "ਂ",
+          "id": 16185
+        },
+        {
+          "unicodeValue": "ਃ",
+          "replaceValue": "ਃ",
+          "id": 16186
+        },
+        {
+          "unicodeValue": "ਅ",
+          "replaceValue": "ਅ",
+          "id": 16187
+        },
+        {
+          "unicodeValue": "ਆ",
+          "replaceValue": "ਆ",
+          "id": 16188
+        },
+        {
+          "unicodeValue": "ਇ",
+          "replaceValue": "ਇ",
+          "id": 16189
+        },
+        {
+          "unicodeValue": "ਈ",
+          "replaceValue": "ਈ",
+          "id": 16190
+        },
+        {
+          "unicodeValue": "ਉ",
+          "replaceValue": "ਉ",
+          "id": 16191
+        },
+        {
+          "unicodeValue": "ਊ",
+          "replaceValue": "ਊ",
+          "id": 16192
+        },
+        {
+          "unicodeValue": "ਏ",
+          "replaceValue": "ਏ",
+          "id": 16193
+        },
+        {
+          "unicodeValue": "ਐ",
+          "replaceValue": "ਐ",
+          "id": 16194
+        },
+        {
+          "unicodeValue": "ਓ",
+          "replaceValue": "ਓ",
+          "id": 16195
+        },
+        {
+          "unicodeValue": "ਔ",
+          "replaceValue": "ਔ",
+          "id": 16196
+        },
+        {
+          "unicodeValue": "ਕ",
+          "replaceValue": "ਕ",
+          "id": 16197
+        },
+        {
+          "unicodeValue": "ਖ",
+          "replaceValue": "ਖ",
+          "id": 16198
+        },
+        {
+          "unicodeValue": "ਗ",
+          "replaceValue": "ਗ",
+          "id": 16199
+        },
+        {
+          "unicodeValue": "ਘ",
+          "replaceValue": "ਘ",
+          "id": 16200
+        },
+        {
+          "unicodeValue": "ਙ",
+          "replaceValue": "ਙ",
+          "id": 16201
+        },
+        {
+          "unicodeValue": "ਚ",
+          "replaceValue": "ਚ",
+          "id": 16202
+        },
+        {
+          "unicodeValue": "ਛ",
+          "replaceValue": "ਛ",
+          "id": 16203
+        },
+        {
+          "unicodeValue": "ਜ",
+          "replaceValue": "ਜ",
+          "id": 16204
+        },
+        {
+          "unicodeValue": "ਝ",
+          "replaceValue": "ਝ",
+          "id": 16205
+        },
+        {
+          "unicodeValue": "ਞ",
+          "replaceValue": "ਞ",
+          "id": 16206
+        },
+        {
+          "unicodeValue": "ਟ",
+          "replaceValue": "ਟ",
+          "id": 16207
+        },
+        {
+          "unicodeValue": "ਠ",
+          "replaceValue": "ਠ",
+          "id": 16208
+        },
+        {
+          "unicodeValue": "ਡ",
+          "replaceValue": "ਡ",
+          "id": 16209
+        },
+        {
+          "unicodeValue": "ਢ",
+          "replaceValue": "ਢ",
+          "id": 16210
+        },
+        {
+          "unicodeValue": "ਣ",
+          "replaceValue": "ਣ",
+          "id": 16211
+        },
+        {
+          "unicodeValue": "ਤ",
+          "replaceValue": "ਤ",
+          "id": 16212
+        },
+        {
+          "unicodeValue": "ਥ",
+          "replaceValue": "ਥ",
+          "id": 16213
+        },
+        {
+          "unicodeValue": "ਦ",
+          "replaceValue": "ਦ",
+          "id": 16214
+        },
+        {
+          "unicodeValue": "ਧ",
+          "replaceValue": "ਧ",
+          "id": 16215
+        },
+        {
+          "unicodeValue": "ਨ",
+          "replaceValue": "ਨ",
+          "id": 16216
+        },
+        {
+          "unicodeValue": "ਪ",
+          "replaceValue": "ਪ",
+          "id": 16217
+        },
+        {
+          "unicodeValue": "ਫ",
+          "replaceValue": "ਫ",
+          "id": 16218
+        },
+        {
+          "unicodeValue": "ਬ",
+          "replaceValue": "ਬ",
+          "id": 16219
+        },
+        {
+          "unicodeValue": "ਭ",
+          "replaceValue": "ਭ",
+          "id": 16220
+        },
+        {
+          "unicodeValue": "ਮ",
+          "replaceValue": "ਮ",
+          "id": 16221
+        },
+        {
+          "unicodeValue": "ਯ",
+          "replaceValue": "ਯ",
+          "id": 16222
+        },
+        {
+          "unicodeValue": "ਰ",
+          "replaceValue": "ਰ",
+          "id": 16223
+        },
+        {
+          "unicodeValue": "ਲ",
+          "replaceValue": "ਲ",
+          "id": 16224
+        },
+        {
+          "unicodeValue": "ਲ਼",
+          "replaceValue": "ਲ਼",
+          "id": 16225
+        },
+        {
+          "unicodeValue": "ਵ",
+          "replaceValue": "ਵ",
+          "id": 16226
+        },
+        {
+          "unicodeValue": "ਸ਼",
+          "replaceValue": "ਸ਼",
+          "id": 16227
+        },
+        {
+          "unicodeValue": "ਸ",
+          "replaceValue": "ਸ",
+          "id": 16228
+        },
+        {
+          "unicodeValue": "ਹ",
+          "replaceValue": "ਹ",
+          "id": 16229
+        },
+        {
+          "unicodeValue": "਼",
+          "replaceValue": "਼",
+          "id": 16230
+        },
+        {
+          "unicodeValue": "ਾ",
+          "replaceValue": "ਾ",
+          "id": 16231
+        },
+        {
+          "unicodeValue": "ਿ",
+          "replaceValue": "ਿ",
+          "id": 16232
+        },
+        {
+          "unicodeValue": "ੀ",
+          "replaceValue": "ੀ",
+          "id": 16233
+        },
+        {
+          "unicodeValue": "ੁ",
+          "replaceValue": "ੁ",
+          "id": 16234
+        },
+        {
+          "unicodeValue": "ੂ",
+          "replaceValue": "ੂ",
+          "id": 16235
+        },
+        {
+          "unicodeValue": "ੇ",
+          "replaceValue": "ੇ",
+          "id": 16236
+        },
+        {
+          "unicodeValue": "ੈ",
+          "replaceValue": "ੈ",
+          "id": 16237
+        },
+        {
+          "unicodeValue": "ੋ",
+          "replaceValue": "ੋ",
+          "id": 16238
+        },
+        {
+          "unicodeValue": "ੌ",
+          "replaceValue": "ੌ",
+          "id": 16239
+        },
+        {
+          "unicodeValue": "੍",
+          "replaceValue": "੍",
+          "id": 16240
+        },
+        {
+          "unicodeValue": "ੑ",
+          "replaceValue": "ੑ",
+          "id": 16241
+        },
+        {
+          "unicodeValue": "ਖ਼",
+          "replaceValue": "ਖ਼",
+          "id": 16242
+        },
+        {
+          "unicodeValue": "ਗ਼",
+          "replaceValue": "ਗ਼",
+          "id": 16243
+        },
+        {
+          "unicodeValue": "ਜ਼",
+          "replaceValue": "ਜ਼",
+          "id": 16244
+        },
+        {
+          "unicodeValue": "ੜ",
+          "replaceValue": "ੜ",
+          "id": 16245
+        },
+        {
+          "unicodeValue": "ਫ਼",
+          "replaceValue": "ਫ਼",
+          "id": 16246
+        },
+        {
+          "unicodeValue": "੦",
+          "replaceValue": "੦",
+          "id": 16247
+        },
+        {
+          "unicodeValue": "੧",
+          "replaceValue": "੧",
+          "id": 16248
+        },
+        {
+          "unicodeValue": "੨",
+          "replaceValue": "੨",
+          "id": 16249
+        },
+        {
+          "unicodeValue": "੩",
+          "replaceValue": "੩",
+          "id": 16250
+        },
+        {
+          "unicodeValue": "੪",
+          "replaceValue": "੪",
+          "id": 16251
+        },
+        {
+          "unicodeValue": "੫",
+          "replaceValue": "੫",
+          "id": 16252
+        },
+        {
+          "unicodeValue": "੬",
+          "replaceValue": "੬",
+          "id": 16253
+        },
+        {
+          "unicodeValue": "੭",
+          "replaceValue": "੭",
+          "id": 16254
+        },
+        {
+          "unicodeValue": "੮",
+          "replaceValue": "੮",
+          "id": 16255
+        },
+        {
+          "unicodeValue": "੯",
+          "replaceValue": "੯",
+          "id": 16256
+        },
+        {
+          "unicodeValue": "ੰ",
+          "replaceValue": "ੰ",
+          "id": 16257
+        },
+        {
+          "unicodeValue": "ੱ",
+          "replaceValue": "ੱ",
+          "id": 16258
+        },
+        {
+          "unicodeValue": "ੲ",
+          "replaceValue": "ੲ",
+          "id": 16259
+        },
+        {
+          "unicodeValue": "ੳ",
+          "replaceValue": "ੳ",
+          "id": 16260
+        },
+        {
+          "unicodeValue": "ੴ",
+          "replaceValue": "ੴ",
+          "id": 16261
+        },
+        {
+          "unicodeValue": "’",
+          "replaceValue": "’",
+          "id": 16262
+        },
+        {
+          "unicodeValue": "ਤੇ",
+          "replaceValue": "ਤੇ",
+          "id": 16128
+        },
+        {
+          "unicodeValue": "ਦੇ",
+          "replaceValue": "ਦੇ",
+          "id": 16129
+        },
+        {
+          "unicodeValue": "ਨੇ",
+          "replaceValue": "ਨੇ",
+          "id": 16130
+        },
+        {
+          "unicodeValue": "ਨੈ",
+          "replaceValue": "ਨੈ",
+          "id": 16131
+        },
+        {
+          "unicodeValue": "ਰੂ",
+          "replaceValue": "ਰੂ",
+          "id": 16132
+        },
+        {
+          "unicodeValue": "ਲੈ",
+          "replaceValue": "ਲੈ",
+          "id": 16133
+        },
+        {
+          "unicodeValue": "ਹੈ",
+          "replaceValue": "ਹੈ",
+          "id": 16134
+        },
+        {
+          "unicodeValue": "ਾਂ",
+          "replaceValue": "ਾਂ",
+          "id": 16135
+        },
+        {
+          "unicodeValue": "ੀਂ",
+          "replaceValue": "ੀਂ",
+          "id": 16136
+        },
+        {
+          "unicodeValue": "੍ਚ",
+          "replaceValue": "੍ਚ",
+          "id": 16137
+        },
+        {
+          "unicodeValue": "੍ਟ",
+          "replaceValue": "੍ਟ",
+          "id": 16138
+        },
+        {
+          "unicodeValue": "੍ਯ",
+          "replaceValue": "੍ਯ",
+          "id": 16139
+        },
+        {
+          "unicodeValue": "੍ਰ",
+          "replaceValue": "੍ਰ",
+          "id": 16140
+        },
+        {
+          "unicodeValue": "੍ਵ",
+          "replaceValue": "੍ਵ",
+          "id": 16141
+        },
+        {
+          "unicodeValue": "੍ਹ",
+          "replaceValue": "੍ਹ",
+          "id": 16142
+        },
+        {
+          "unicodeValue": "ਕ੍ਰ",
+          "replaceValue": "ਕ੍ਰ",
+          "id": 16118
+        },
+        {
+          "unicodeValue": "ਤ੍ਰ",
+          "replaceValue": "ਤ੍ਰ",
+          "id": 16119
+        },
+        {
+          "unicodeValue": "ਦ੍ਰ",
+          "replaceValue": "ਦ੍ਰ",
+          "id": 16120
+        },
+        {
+          "unicodeValue": "ਨਾਂ",
+          "replaceValue": "ਨਾਂ",
+          "id": 16121
+        },
+        {
+          "unicodeValue": "ਨੂੰ",
+          "replaceValue": "ਨੂੰ",
+          "id": 16122
+        },
+        {
+          "unicodeValue": "ਪ੍ਰ",
+          "replaceValue": "ਪ੍ਰ",
+          "id": 16123
+        },
+        {
+          "unicodeValue": "ਸ਼੍ਰ",
+          "replaceValue": "ਸ਼੍ਰ",
+          "id": 16124
+        },
+        {
+          "unicodeValue": "੍ਰੁ",
+          "replaceValue": "੍ਰੁ",
+          "id": 16125
+        },
+        {
+          "unicodeValue": "੍ਵੇ",
+          "replaceValue": "੍ਵੇ",
+          "id": 16126
+        },
+        {
+          "unicodeValue": "੍ਵੈ",
+          "replaceValue": "੍ਵੈ",
+          "id": 16127
+        }
+      ]
+    }
+  ]
+}

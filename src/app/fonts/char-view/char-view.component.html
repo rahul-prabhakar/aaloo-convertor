@@ -1,0 +1,10 @@
+<div *ngIf="!charMap.editable" class="border text-center p-2 bg-light" style="height:44px;">
+    {{charMap.unicodeValue}}
+</div>
+<div *ngIf=" charMap.editable " class="border text-center bg-light ">
+
+    <input class="text-center " [ngStyle]="{ 'height.px': '42', 'width': '100%' } " [(ngModel)]="charMap.unicodeValue ">
+</div>
+<div class="border ">
+    <input class="text-center " [ngStyle]="{ 'height.px': '50', 'width': '100%', 'font-family':font, 'font-size.rem': '2' } " [(ngModel)]="charMap.replaceValue ">
+</div>
